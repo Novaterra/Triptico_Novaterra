@@ -1,7 +1,10 @@
 # Project Name
 NOVATERRA ONG
-
-DISEÑO GRAFICO: Folleta en formato triptico cuadrado informatovo de Fundacion Novaterra 2016
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Novaterra/Triptico_Novaterra/master/dise%C3%B1o.png" width="600"/>
+  <img src="https://raw.githubusercontent.com/Novaterra/Triptico_Novaterra/master/dise%C3%B1o1.png" width="600"/>
+</p>
+DISEÑO GRAFICO: Folleto en formato triptico cuadrado informativo de Fundacion Novaterra 2016
 
 ## REALIZADO CON
 
