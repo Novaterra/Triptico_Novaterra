@@ -31,9 +31,9 @@
      inkscape:window-height="1014"
      id="namedview4"
      showgrid="false"
-     inkscape:zoom="2.1401429"
-     inkscape:cx="324.25402"
-     inkscape:cy="193.32079"
+     inkscape:zoom="1.0700715"
+     inkscape:cx="274.29424"
+     inkscape:cy="192.19458"
      inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
@@ -933,7 +933,7 @@
          cx="-249.22958"
          id="circle5792"
          style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0.77838498;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" /></g><g
-       transform="matrix(0.8,0,0,-0.8,346.08317,767.2586)"
+       transform="matrix(0.8,0,0,-0.8,346.08317,770.4586)"
        id="g6742"><text
          xml:space="preserve"
          id="text5716"
@@ -956,7 +956,7 @@
          cx="-77.229584"
          id="circle5796"
          style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0.77838498;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" /></g><g
-       transform="matrix(0.8,0,0,-0.8,346.08317,768.8586)"
+       transform="matrix(0.71575018,0,0,-0.8,339.39181,770.4586)"
        id="g6737"><text
          xml:space="preserve"
          id="text5720"
@@ -966,16 +966,20 @@
          y="727.1991"
          sodipodi:linespacing="100%"><tspan
            sodipodi:role="line"
-           id="tspan5722"
+           id="tspan4529"
            x="-69.62365"
-           y="727.1991">Franciscanos Frailes Menores</tspan></text>
+           y="727.1991">Franciscanos. Provincia de la Inmaculada </tspan><tspan
+           sodipodi:role="line"
+           id="tspan4531"
+           x="-69.62365"
+           y="735.9491">Concepción de la Orden de Frailes Menores</tspan></text>
 <circle
          style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0.77838498;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
          id="circle5853"
          cx="-77.229584"
          cy="706.11182"
          r="1.8040179" /></g><g
-       transform="matrix(0.8,0,0,-0.8,346.08317,767.2586)"
+       transform="matrix(0.8,0,0,-0.8,346.08317,764.0586)"
        id="g6731"><text
          xml:space="preserve"
          id="text5724"
@@ -1021,7 +1025,7 @@
          cx="-249.22958"
          cy="750.9295"
          r="1.8040179" /></g><g
-       transform="matrix(0.8,0,0,-0.8,346.08317,773.6586)"
+       transform="matrix(0.8,0,0,-0.8,346.08317,772.0586)"
        id="g6726"><text
          xml:space="preserve"
          id="text5730"
@@ -1040,7 +1044,7 @@
          cx="-77.229584"
          cy="750.11182"
          r="1.8040179" /></g><g
-       transform="matrix(0.8,0,0,-0.8,346.08317,773.6586)"
+       transform="matrix(0.8,0,0,-0.8,346.08317,770.4586)"
        id="g6721"><text
          xml:space="preserve"
          id="text5734"
