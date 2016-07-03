@@ -2,7 +2,6 @@
 NOVATERRA ONG
 <p align="center">
   <img src="https://raw.githubusercontent.com/Novaterra/Triptico_Novaterra/master/dise%C3%B1o.png" width="600"/>
-  <img src="https://raw.githubusercontent.com/Novaterra/Triptico_Novaterra/master/dise%C3%B1o1.png" width="600"/>
 </p>
 DISEÑO GRAFICO: Folleto en formato triptico cuadrado informativo de Fundacion Novaterra 2016
 
